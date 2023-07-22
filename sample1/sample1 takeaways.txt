@@ -1,0 +1,5 @@
+-Always make sure sketches are fully defined(constrained)
+-To mirror 2D entities you use a center line
+-To mirror an object click on the objet hold down the control key click the mirror line, release control key and 
+click on the mirror entities tab
+-To mirror 3D objects you need a plane
